@@ -6,4 +6,4 @@ Losses
 
 Confusion matricies
 
-![Confusion matrices](Confusion matrices.png)
+![Confusion matrices]("Confusion matrices.png")
