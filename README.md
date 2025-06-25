@@ -6,4 +6,10 @@ Losses
 
 Confusion matricies
 
-![Confusion matrices]("Confusion matrices.png")
+![Confusion matrices](Confusion_matrices.png)
+
+Example, decoded text
+
+![Text](Text.png)
+
+Decoded message is: thejcakfjisjajl1e
